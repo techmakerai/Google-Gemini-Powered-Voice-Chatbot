@@ -7,5 +7,7 @@ Following the YouTube video here to learn more about this code:
 
 You will need to install the following packages on your computer to run this code:
 
-$pip install -q -U google-generativeai 
+```console
+$pip install -q -U google-generativeai    
 $pip install speechrecognition openai pyttsx3 pyaudio pygame
+```
