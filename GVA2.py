@@ -50,10 +50,7 @@ def speak_text(text):
             input= text )
         
         fname = 'output.mp3'
-        mp3file =open(fname, 'w+') 
-
-        #if os.path.exists(fname):
-        #    os.remove(fname)    
+        mp3file =open(fname, 'w+')  
                       
         response.write_to_file(fname)
 
