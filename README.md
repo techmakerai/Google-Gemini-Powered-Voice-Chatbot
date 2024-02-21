@@ -6,7 +6,7 @@ This repository includes a Python program that can call Google Gemini Pro API to
 Please watch this YouTube video tutorial to learn more about this code:    
 https://youtu.be/tXiIxjyaEtk    
 
-You will need to install the following packages on your computer to run this code:
+Before you can run this code on your computer, you will need to install the following packages:
 
 ```console
 pip install -q -U google-generativeai    
