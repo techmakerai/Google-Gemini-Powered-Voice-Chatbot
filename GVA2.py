@@ -21,7 +21,7 @@ pygame.mixer.init()
 #os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 
 # set the Google Gemini API key as a system environment variable or add it here
-# genai.configure(api_key=GOOGLE_API_KEY)
+# genai.configure(api_key="Your-Google-API-key")
 
 today = str(date.today())
 
