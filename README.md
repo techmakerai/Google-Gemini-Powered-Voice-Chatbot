@@ -17,3 +17,5 @@ If you have Python 3.12 or newer, also install the "setuptools" package,
 ```console
 pip install setuptools
 ```
+
+You may need to create a Python virtual environment first.    
