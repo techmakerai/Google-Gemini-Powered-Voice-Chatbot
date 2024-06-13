@@ -1,4 +1,4 @@
-# Google Gemini Powered Voice Chatbot
+# Google Gemini Powered Voice Assistant
 A voice assistant (chatbot) built with Google's AI model Gemini Pro and Python. 
 
 This repository includes a Python program that calls Google Gemini API to obtain a response to any request from a user and then convert the text response to an audio response. This version has been tested on Windows 10.
